@@ -1,0 +1,6 @@
+@AzureMSALDemoApp_HostAddress = http://localhost:5269
+
+GET {{AzureMSALDemoApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
